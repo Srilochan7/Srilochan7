@@ -5,8 +5,7 @@
 - 🤔 Ask me about FLUTTER,FIREBASE,C++
 - 📫 How to reach me srilochan7@gmail.com
 
- Connect with me:
- https://x.com/Srilochan7 https://www.linkedin.com/in/sri-lochan-b079a7256/ https://www.codechef.com/users/srilochan https://leetcode.com/u/srilochan1/ https://www.geeksforgeeks.org/user/sriloc3c2d/
+
 
 
 
