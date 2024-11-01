@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **State Management in Flutter, Machine Learning**
 
-- 👨‍💻 This is my portfolio [https://srilochan.carrd.co/](https://srilochan.carrd.co/)
+- 👨‍💻 This is my portfolio [[https://srilochan.carrd.co/](https://srilochan.carrd.co/)](https://srilochan.netlify.app/)
 
 - 💬 Ask me about **Flutter, Firebase, React, Python, C++**
 
