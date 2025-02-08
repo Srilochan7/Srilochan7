@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srilochan7" alt="srilochan7" /></a> </p>
 
-- 🔭 I’m currently working on **0-ZONE which is my first app to be deployed in Playstoree**
+- 🔭 I’m currently working on *ExpertEase which is my startup**
 
-- 🌱 I’m currently learning **State Management in Flutter, Machine Learning**
+- 🌱 I’m currently learning **Next JS and Web3**
 
 - 👨‍💻 This is my portfolio [(https://srilochan.netlify.app/)]
 
-- 💬 Ask me about **Flutter, Firebase, React, Python, C++**
+- 💬 Ask me about **Flutter, Firebase, React, Python, C++, startups etc**
 
 - 📫 How to reach me **srilochan7@gmail.com**
 
