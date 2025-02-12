@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srilochan7" alt="srilochan7" /></a> </p>
 
-- 🔭 I’m currently working on *ExpertEase which is my startup**
+- 🔭 I’m currently working on *ExpertEase which is my startup*
 
 - 🌱 I’m currently learning **Next JS and Web3**
 
