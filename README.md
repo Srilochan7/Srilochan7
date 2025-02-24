@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **srilochan7@gmail.com**
 
-- ⚡ Fun fact **I can edit videos**
+- ⚡ Fun fact **I can edit videos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
