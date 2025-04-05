@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *ExpertEase which is my startup*
 
-- 🌱 I’m currently learning **Next JS and Web3**
+- 🌱 I’m currently learning Nextjs
 
 - 👨‍💻 This is my portfolio [(https://srilochan.netlify.app/)]
 
