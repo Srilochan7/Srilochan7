@@ -1,21 +1,32 @@
-<h1 align="center">Hi 👋, I'm Kalakunta Srilochan</h1>
-<h3 align="center">FULL STACK APP DEVELOPER</h3>
+
+
+
+
+![Black Technology LinkedIn Banner (2)](https://github.com/user-attachments/assets/86559358-a1f9-4563-b53a-2cff9f00478c)
+
+<h1 align="center">Hi 👋, I'm Srilochan, Full stack app dev</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srilochan7&label=Profile%20views&color=0e75b6&style=flat" alt="srilochan7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srilochan7" alt="srilochan7" /></a> </p>
 
-- 🔭 I’m currently working on *ExpertEase which is my startup*
+![In Love GIF](https://github.com/user-attachments/assets/3fd6b19a-afb5-4cea-bc76-943d40c8fc40)
 
-- 🌱 I’m currently learning Nextjs
 
-- 👨‍💻 This is my portfolio [(https://srilochan.netlify.app/)]
+ - I’m Srilochan — currently studying CompSci and messing around with tech.
+ - I enjoy exploring new tech and building whatever weird idea pops into my head. I use Flutter.
+ - Currently learning dsa, mastering BLoc and seanking into Gen AI.
 
-- 💬 Ask me about **Flutter, Firebase, React, Python, C++, startups etc**
 
-- 📫 How to reach me **srilochan7@gmail.com**
+If you would like to help me with stuff or want me to help you out with something (*cough collaboration *cough), feel free to reach me on my mail (srilochan7@gmail.com) 📩  
+Slide into my mail like a bug into production — I’ll get back to you once I’ve finished fixing the last thing I broke accidentally 🤡
 
-- ⚡ Fun fact **I can edit videos.**
+- ⚡ Fun fact- Octopuses have three hearts and still get ghosted 🐙💔
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
