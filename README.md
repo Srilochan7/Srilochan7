@@ -1,8 +1,7 @@
 
+![Black Technology LinkedIn Banner (3)](https://github.com/user-attachments/assets/99939bfa-dbbc-4688-bcd5-caa28f327226)
 
 
-
-![Black Technology LinkedIn Banner (2)](https://github.com/user-attachments/assets/86559358-a1f9-4563-b53a-2cff9f00478c)
 
 <h1 align="center">Hi 👋, I'm Srilochan, Full stack app dev</h1>
 
