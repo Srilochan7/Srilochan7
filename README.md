@@ -13,7 +13,7 @@
 
  - I’m Srilochan — currently studying CompSci and messing around with tech.
  - I enjoy exploring new tech and building whatever weird idea pops into my head. I use Flutter.
- - Currently learning dsa, mastering BLoc and seanking into Gen AI.
+ - Currently working on dsa, mastering BLoc, and learning GenAI to take over my own job.
 
 
 If you would like to help me with stuff or want me to help you out with something (*cough collaboration *cough), feel free to reach me on my mail (srilochan7@gmail.com) 📩  
