@@ -19,7 +19,7 @@
 If you would like to help me with stuff or want me to help you out with something (ehm collaboration ehm), feel free to reach me on my mail (srilochan7@gmail.com) 📩  
 Slide into my mail like a bug into production — I’ll get back to you once I’ve finished fixing the last thing I broke accidentally 🤡
 
-- ⚡ Fun fact- Octopuses have three hearts and still get ghosted 🐙💔
+- ⚡ I also edit videos sometimes (After Effects was my first gf)
 
 
 
