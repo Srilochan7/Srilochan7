@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Srilochan, I build apps</h1>
+<h1 align="center">Hi 👋, I'm Srilochan, I build things</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srilochan7&label=Profile%20views&color=0e75b6&style=flat" alt="srilochan7" /> </p>
 
