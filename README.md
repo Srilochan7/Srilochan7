@@ -13,7 +13,7 @@
 
  - I’m Srilochan — currently studying CompSci and messing around with tech.
  - I enjoy exploring new tech and building whatever weird idea pops into my head. I use Flutter, Python, Langchain.
- - Currently working on Advance GenAI and MLops, Advance, to take my own job
+ - Currently working on Advance GenAI and MLops, Advance DL, to take my own job
 
 
 If you would like to help me with stuff or want me to help you out with something (ehm collaboration ehm), feel free to reach me on my mail (srilochan7@gmail.com) 📩  
