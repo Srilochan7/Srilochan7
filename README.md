@@ -1,8 +1,4 @@
 
-![Black Technology LinkedIn Banner (3)](https://github.com/user-attachments/assets/99939bfa-dbbc-4688-bcd5-caa28f327226)
-
-
-
 <h1 align="center">Hi 👋, I'm Srilochan, I build things</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srilochan7&label=Profile%20views&color=0e75b6&style=flat" alt="srilochan7" /> </p>
