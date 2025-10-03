@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srilochan7&label=Profile%20views&color=0e75b6&style=flat" alt="srilochan7" /> </p>
 
 
-![In Love GIF](https://github.com/user-attachments/assets/3fd6b19a-afb5-4cea-bc76-943d40c8fc40)
-
-
  - I’m Srilochan — currently studying CompSci and messing around with tech.
  - I enjoy exploring new tech and building whatever weird idea pops into my head. I use Flutter, Python, Langchain.
  - Currently working on Advance GenAI Agentic AI, Advance DL, to take my own job
